@@ -1,5 +1,5 @@
 # pichuang_no_gg
-紀錄 pichuang 陷害周遭同伴之種種惡行以警惕後人
+紀錄 pichuang 陷害周遭同伴之種種惡行以警惕後人  
 `採用 CC 授權: BY, NC, SA`
 
 1. adsl.cs
